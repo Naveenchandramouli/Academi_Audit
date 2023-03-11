@@ -1,0 +1,38 @@
+#clg{
+    font-size: 16px;
+    color: white;
+    position: relative;
+    top: 19px;
+    font-family: sans-serif;
+    left: -172px;
+}
+#logo{
+    position: fixed;
+    top: 1px;
+    width: 50px;
+    left: -212px;
+}
+.topnav{
+    position: fixed;
+    top: 18px;
+    right: 185px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.head{
+    font-size: 15px;
+}
+.form{
+    padding: 10px 12px;
+    line-height: 35px;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+  }
